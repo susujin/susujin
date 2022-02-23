@@ -1,4 +1,5 @@
 ### <div align="center">Hi there 👋</div>
+<hr/>
 
 <!--
 **susujin/susujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ### <div align="center">:e-mail: ME </div>
+<hr/>
 [<div align="center">![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjin230@gmail.com)</div>](mailto:psjin230@gmail.com)
 
-### <div align="center">:bulb: Learning Skill </div>
 
+### <div align="center">:bulb: Learning Skill </div>
+<hr/>
 <div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </div>
