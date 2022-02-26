@@ -31,7 +31,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </div>
-
-<div align="center">
-![susujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=susujin&show_icons=ture&theme=flag-india)
-</div>
