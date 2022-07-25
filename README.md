@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="mailto:psjin230@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:psjin230@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://psjin230.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
 <div>
 
 ### <div align="center">:books: Learning Skill :books:</div>
