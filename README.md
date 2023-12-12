@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <div align="center">Hi there:snowman:</div>
+## <div align="center">Hi there☃️</div>
 <br/>
 
-### <div align="center"> :cherry_blossom: ME :cherry_blossom: </div>
+### <div align="center"> 🌸 ME 🌸 </div>
 <div align="center">
 <a href="mailto:psjin230@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:psjin230@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://psjin230.tistory.com"><img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
 <div>
 
-### <div align="center">:books: Learning Skill :books:</div>
+### <div align="center">📚 Learning Skill 📚</div>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
